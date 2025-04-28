@@ -1,5 +1,4 @@
-🌟 Innocare
-Innocare is a React + TailwindCSS powered smart dashboard designed to empower individuals with disabilities by providing seamless access to essential services and entertainment, all from a single intuitive touchscreen interface.
+🌟 Innocare is a React + TailwindCSS powered smart dashboard designed to empower individuals with disabilities by providing seamless access to essential services and entertainment, all from a single intuitive touchscreen interface.
 
 🚀 Hosted on a Jetson Nano and built for a wheelchair-mounted touchscreen display, Innocare brings a smarter, more connected world to your fingertips.
 
